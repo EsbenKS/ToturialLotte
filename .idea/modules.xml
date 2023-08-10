@@ -2,6 +2,22 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayAdvTecniques/ArrayAdvTecniques.iml" filepath="$PROJECT_DIR$/ArrayAdvTecniques/ArrayAdvTecniques.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayListBasic/ArrayListBasic.iml" filepath="$PROJECT_DIR$/ArrayListBasic/ArrayListBasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayListBasic1/ArrayListBasic1.iml" filepath="$PROJECT_DIR$/ArrayListBasic1/ArrayListBasic1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayListExESBEN/ArrayListExESBEN.iml" filepath="$PROJECT_DIR$/ArrayListExESBEN/ArrayListExESBEN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayListInArrayListESBEN/ArrayListInArrayListESBEN.iml" filepath="$PROJECT_DIR$/ArrayListInArrayListESBEN/ArrayListInArrayListESBEN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayListLoops/ArrayListLoops.iml" filepath="$PROJECT_DIR$/ArrayListLoops/ArrayListLoops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayMultidim/ArrayMultidim.iml" filepath="$PROJECT_DIR$/ArrayMultidim/ArrayMultidim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayStrings/ArrayStrings.iml" filepath="$PROJECT_DIR$/ArrayStrings/ArrayStrings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays1/Arrays1.iml" filepath="$PROJECT_DIR$/Arrays1/Arrays1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays2/Arrays2.iml" filepath="$PROJECT_DIR$/Arrays2/Arrays2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FizzBuzzLogical/FizzBuzzLogical.iml" filepath="$PROJECT_DIR$/FizzBuzzLogical/FizzBuzzLogical.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LogicalOperators/LogicalOperators.iml" filepath="$PROJECT_DIR$/LogicalOperators/LogicalOperators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops/Loops.iml" filepath="$PROJECT_DIR$/Loops/Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MineGame/MineGame.iml" filepath="$PROJECT_DIR$/MineGame/MineGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Morgage Calculator/Morgage Calculator.iml" filepath="$PROJECT_DIR$/Morgage Calculator/Morgage Calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Toturial.iml" filepath="$PROJECT_DIR$/Toturial.iml" />
     </modules>
   </component>
